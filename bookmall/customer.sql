@@ -12,6 +12,9 @@ INSERT INTO customer VALUES (2, '손흥민', '영국 런던', '000-6000-0001');
 INSERT INTO customer VALUES (3, '황인범', '그리스 올림피아코스', '000-7000-0001');
 INSERT INTO customer VALUES (4, '오현규', '스코틀랜드 셀틱', 'NULL');
 INSERT INTO customer VALUES (5, '김민재', '이탈리아 나폴리', '000-8000-0001');
+INSERT INTO customer VALUES (6, '김영권', '대한민국 울산', '000-9000-0001');
+INSERT INTO customer VALUES (7, '황희찬', '영국 울버햄튼', '000-8000-0002');
+
 
 SELECT * FROM customer;
 
